@@ -27,7 +27,7 @@ Download Youtube Videos In Various Available And Seperated Formats.
     Now Click On Either The Download Button on Right Or The Type On Left Button
   </li>
   <li>
-    Use Your Favourite Browser To Download The Video.
+    Use Your Favourite Browser (<b>Chrome Recommended</b>) To Download The Video.
   </li>
   </ol>
   
