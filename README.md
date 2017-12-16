@@ -20,6 +20,9 @@ Download Youtube Videos In Various Available And Seperated Formats.
     Wait For The Application To Load Data
   </li>
   <li>
+    Scroll To The Download Type(<b>Available</b> Or <b>Seperated</b>) That Suits You.
+  </li>
+  <li>
     Now Click On Either The Download Button on Right Or The Type On Left Button
   </li>
   <li>
@@ -27,3 +30,20 @@ Download Youtube Videos In Various Available And Seperated Formats.
   </li>
   </ol>
   
+  ## Issues
+  
+  <ul>
+  <li>
+    Unable To Load The Video Thumbnail(<b>Help Needed</b>)
+    </li>
+  </ul>
+  
+  ## How You Can Contribute?
+  
+  <ol>
+  <li>Suggest Code Improvements</li>
+  <li>Send Us Bug Reports</li>
+  <li>Suggest UI Improvemnts</li>
+</ol>
+
+# Feel Free To Share And Learn.
