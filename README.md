@@ -12,10 +12,10 @@ Download Youtube Videos In Various Available And Seperated Formats.
 
 <ol>
   <li>
-    Share The Video From Youtube.
+    Share The Video From Youtube Or Copy The Video Link.
   </li>
   <li>
-    Select <b>Linkify</b> From The Results
+    Select <b>Linkify</b> From The Results Or Open The App From Laucher And Click On The <b>PasteButton</b> On Top Right Corner And Click Download.
   </li>
   <li>
     Wait For The Application To Load Data
@@ -41,10 +41,9 @@ Download Youtube Videos In Various Available And Seperated Formats.
   
   ## How You Can Contribute?
   
-  <ol>
+  <ul>
   <li>Suggest Code Improvements</li>
   <li>Send Us Bug Reports</li>
   <li>Suggest UI Improvemnts</li>
-</ol>
+</ul>
 
-# Feel Free To Share And Learn.
