@@ -45,6 +45,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
+        getSupportActionBar().setIcon(R.drawable.minicon);
         gobtn = (BootstrapButton) findViewById(R.id.gobtn);
         imgThumbnail = (ImageView) findViewById(R.id.imgThumbnail);
         titleText = (TextView) findViewById(R.id.titleText);
@@ -102,6 +104,10 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(this, "Sorry Nothing Found To Paste", Toast.LENGTH_SHORT).show();
                 }
                 return true;
+            case R.id.trending:
+                Intent intent=new Intent(MainActivity.this,TrendingActivity.class);
+                startActivity(intent);
+                return true;
         }
         return super.onOptionsItemSelected(item);
     }
@@ -112,6 +118,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void run() {
                 loader.setVisibility(View.VISIBLE);
+                links.clear();
                 fetchData(url);
             }
         }).start();
@@ -175,7 +182,10 @@ public class MainActivity extends AppCompatActivity {
                                             public void run() {
                                                 if (info != null) {
                                                     Element img = info.select("img").first();
-                                                    String imgSrc = "http://shouvikmitra.fanclub.rocks/utilities/" + img.attr("src");
+                                                    String imgSrc=img.attr("src");
+                                                    imgSrc=imgSrc.substring(imgSrc.indexOf("=")+1);
+                                                    //Toast.makeText(MainActivity.this, imgSrc, Toast.LENGTH_SHORT).show();
+                                                    imgSrc="https://img.youtube.com/vi/"+imgSrc+"/default.jpg";
                                                     Element text = info.select("p").first();
                                                     String title = text.text();
                                                     ///Using Glide To Load The Image Async
@@ -193,7 +203,6 @@ public class MainActivity extends AppCompatActivity {
                                         loader.setVisibility(View.GONE);
                                     }
                                 }).start();
-                                // code here
                             }
                         });
             }

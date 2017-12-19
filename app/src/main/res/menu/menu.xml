@@ -4,5 +4,8 @@
 <item android:title="Paste"
     android:id="@+id/paste"
     android:icon="@drawable/ic_content_paste_black_24dp"
-    app:showAsAction="always"></item>
+    app:showAsAction="always"/>
+    <item android:title="Trending"
+        android:id="@+id/trending"
+        app:showAsAction="never"/>
 </menu>
