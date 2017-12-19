@@ -5,7 +5,7 @@ Download Youtube Videos In Various Available And Seperated Formats.
 
 <img src="https://raw.githubusercontent.com/naseemali925/Linkify/master/images/Screenshot_20171216-124838.jpg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/naseemali925/Linkify/master/images/sharefromyoutube.jpg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/naseemali925/Linkify/master/images/available.jpg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/naseemali925/Linkify/master/images/avail.png" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Sample App
 
@@ -35,12 +35,11 @@ Check Out The Sample App <a href="https://github.com/naseemali925/Linkify/tree/m
   </li>
   </ol>
   
-  ## Issues
-  
+  ## Changes
   <ul>
-  <li>
-    Unable To Load The Video Thumbnail(<b>Help Needed</b>)
-    </li>
+  <li>Improved App Bar</li>
+  <li>Added Trending Videos(For Now Its Just A WebView)</li>
+  <li>Changed Theme</li>
   </ul>
   
   ## How You Can Contribute?
