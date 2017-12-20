@@ -38,7 +38,7 @@ Check Out The Sample App <a href="https://github.com/naseemali925/Linkify/tree/m
   ## Changes
   <ul>
   <li>Improved App Bar</li>
-  <li>Added Trending Videos(For Now Its Just A WebView)  <img src="https://raw.githubusercontent.com/naseemali925/Linkify/master/images/initial.png" width="150"></li>
+  <li>Added Trending Videos(For Now Its Just A WebView)</br><img src="https://raw.githubusercontent.com/naseemali925/Linkify/master/images/trending.png" width="150"></li>
   <li>Changed Theme</li>
   </ul>
   
