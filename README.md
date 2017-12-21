@@ -42,6 +42,12 @@ Check Out The Sample App <a href="https://github.com/naseemali925/Linkify/tree/m
   <li>Changed Theme</li>
   </ul>
   
+  ## Issues
+  <ul>
+  <li>Getting Download Size 0 In Some Video Links</li>
+  <li>No Checks For Videos That Cannot Be Downloaded</li>
+  </ul>
+  
   ## How You Can Contribute?
   
   <ul>
