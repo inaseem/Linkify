@@ -44,7 +44,7 @@ Check Out The Sample App <a href="https://github.com/naseemali925/Linkify/tree/m
   
   ## Issues
   <ul>
-  <li>Getting Download Size 0 In Some Video Links (<b>Fixed</b>i>
+  <li>Getting Download Size 0 In Some Video Links (<b>Fixed</b>)</li>
   <li>No Checks For Videos That Cannot Be Downloaded (<b>Included Checks</b>)</li>
   </ul>
   
