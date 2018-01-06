@@ -35,20 +35,20 @@ Check Out The Sample App <a href="https://github.com/naseemali925/Linkify/tree/m
   </li>
   </ol>
   
-  ## Changes
+## Changes
   <ul>
   <li>Improved App Bar</li>
   <li>Added Trending Videos(For Now Its Just A WebView)</br><img src="https://raw.githubusercontent.com/naseemali925/Linkify/master/images/trending.png" width="150"></li>
   <li>Changed Theme</li>
   </ul>
   
-  ## Issues
+## Issues
   <ul>
   <li>Getting Download Size 0 In Some Video Links (<b>Fixed</b>)</li>
   <li>No Checks For Videos That Cannot Be Downloaded (<b>Included Checks</b>)</li>
   </ul>
   
-  ## How You Can Contribute?
+## How You Can Contribute?
   
   <ul>
   <li>Suggest Code Improvements</li>
