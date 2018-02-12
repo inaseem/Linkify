@@ -31,7 +31,7 @@ Check Out The Sample App <a href="https://github.com/naseemali925/Linkify/tree/m
     Now Click On Either The Download Button on Right Or The Type On Left Button
   </li>
   <li>
-    Use Your Favourite Browser (<b>Chrome Recommended</b>) To Download The Video.
+    Use Inbuilt DownloadManager To Download The Video.
   </li>
   </ol>
   
@@ -46,6 +46,11 @@ Check Out The Sample App <a href="https://github.com/naseemali925/Linkify/tree/m
   <ul>
   <li>Getting Download Size 0 In Some Video Links (<b>Fixed</b>)</li>
   <li>No Checks For Videos That Cannot Be Downloaded (<b>Included Checks</b>)</li>
+  </ul>
+
+## Working On
+  <ul>
+  <li>Automagical Detection Of Download Links From Youtube Trending Page</li>
   </ul>
   
 ## How You Can Contribute?
